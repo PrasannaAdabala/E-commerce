@@ -1,0 +1,20 @@
+.card-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+    padding: 10px;
+  }
+  
+  .card-buttons button {
+    padding: 6px 12px; 
+    font-size: 0.875rem; 
+  }
+  .app-container {
+    position: relative;
+    padding: 20px;
+    background-image: url('https://tse3.mm.bing.net/th?id=OIP.x0XF_BzlKnEvV-6wV4sE7gHaEK&pid=Api&P=0&h=180');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white; 
+  }
